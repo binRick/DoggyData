@@ -1,0 +1,23 @@
+{
+  "name": "doggydata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binRick/DoggyData"
+  },
+  "author": "Rick Blundell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binRick/DoggyData/issues"
+  },
+  "homepage": "https://github.com/binRick/DoggyData",
+  "dependencies": {
+    "express": "^4.12.4",
+    "underscore": "^1.8.3"
+  }
+}
